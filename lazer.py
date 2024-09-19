@@ -1,7 +1,6 @@
 X = int(input())
 Y = int(input())
 
-
 if (X + Y) % 2 == 0:
     if X >= 0 and Y >= 0:
         if X > Y:
